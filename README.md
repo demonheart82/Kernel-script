@@ -1,0 +1,2 @@
+# Kernel-script
+Easy script 
